@@ -1,0 +1,21 @@
+{
+  "name": "meutema",
+  "displayName": "meuTema",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.110.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Um-Tema-Legal",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Um-Tema-Legal-color-theme.json"
+      }
+    ]
+  }
+}
