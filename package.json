@@ -1,6 +1,6 @@
 {
-  "name": "meutema",
-  "displayName": "meuTema",
+  "name": "black-amethyst",
+  "displayName": "Black Amethyst",
   "description": "",
   "version": "0.0.1",
   "engines": {
@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Um-Tema-Legal",
+        "label": "Black-Amethyst",
         "uiTheme": "vs-dark",
-        "path": "./themes/Um-Tema-Legal-color-theme.json"
+        "path": "./themes/Black-Amethyst.json"
       }
     ]
   }
